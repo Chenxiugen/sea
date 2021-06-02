@@ -8,6 +8,16 @@ description: 主要是抹平不同浏览器初始样式差异化
 
 
 
+```text
+<details>
+  <summary>点击时的区域标题</summary>
+  ```bash
+  echo "hello shell"
+  echo "hello python"
+  ```
+</details>
+```
+
 &lt;details&gt;
 
 &lt;summary&gt;雅虎搜索的初始化样式&lt;/summary&gt;
