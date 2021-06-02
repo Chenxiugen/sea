@@ -6,7 +6,7 @@ description: 主要是抹平不同浏览器初始样式差异化
 
 #### 雅虎搜索
 
-
+点击时的区域标题 \`\`\`bash echo "hello shell" echo "hello python" \`\`\`
 
 ```text
 <details>
