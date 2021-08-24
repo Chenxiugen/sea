@@ -10,3 +10,9 @@
 
 * [移动端video标签使用](shi-pin-bo-fang/yi-dong-duan-video-biao-qian-shi-yong.md)
 
+## 教资笔记
+
+* [科目一：综合素质](jiao-zi-bi-ji/ke-mu-yi-zong-he-su-zhi/README.md)
+  * [1、教师职业理念与师德](jiao-zi-bi-ji/ke-mu-yi-zong-he-su-zhi/1-jiao-shi-zhi-ye-li-nian-yu-shi-de.md)
+  * [2、教师基本能力](jiao-zi-bi-ji/ke-mu-yi-zong-he-su-zhi/2-jiao-shi-ji-ben-neng-li.md)
+
